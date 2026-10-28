@@ -2,23 +2,19 @@
 
 Welcome to the **Git Gud Workshop**! 🚀
 
-We're keeping things casual, real, and fun. No corporate jargon, no stiff committee rules, no pretentiousness. Just people learning to code and getting comfortable with Git without anxiety.
+We're keeping things casual, real, and fun. No corporate jargon, no stiff committee rules, no pretentiousness. Just people learning to code and anxiety.
 
 Here is the entire code of conduct:
 
 ---
 
 ### Rule 0: Have Fun and Don't Take Things Too Seriously
-Coding can feel intimidating when you start. Remember: computers are just rocks that we tricked into thinking using lightning. If your terminal spits out 40 lines of bright red traceback errors, it doesn't mean you're bad at coding—it just means you're doing real programming. Vibe with it.
+Coding can feel intimidating when you start. Remember: computers are just rocks that we tricked into thinking using lightning. If your terminal spits out 40 lines of bright red traceback errors, it doesn't mean you're bad at coding—it just means you're doing real programmi
 
 ### Rule 1: Don't Be a Jerk
 - Be chill, be patient, and be kind.
 - Everyone here started somewhere. Every senior developer who acts like a wizard today once cried over a missing parenthesis or typed `git push` with their eyes closed hoping nothing would break.
 - If someone is struggling with `for` loops or indentations, help them out. Don't flex, don't gatekeep, don't say "well actually that's trivial."
-
-### Rule 2: There Are No "Dumb Questions"
-- Seriously. Ask literally anything.
-- "Why does Python care about spaces?" Valid.
 - "What happens if I delete `.git`?" Try it (in a dummy folder) and see!
 - "Why does my code only work when I don't look at it?" We wonder that too.
 - The only bad question is the one you kept trapped in your head while staring blankly at your screen for two hours.
